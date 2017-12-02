@@ -3,6 +3,6 @@ body {
   background-color: lime;
 }
 
-div {
+div class="head-container" {
   background-color: blue;
 }
