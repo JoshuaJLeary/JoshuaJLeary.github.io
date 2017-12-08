@@ -1,14 +1,11 @@
 /*This is a code comment*/
-body {
-}
+
 
 .header-container {
   background-color: blue;
+  text-align: center;
 }
 
 .HU-Logo {
   width:100px;
-}
-.header-container {
-  text-align: center;
 }
