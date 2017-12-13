@@ -1,8 +1,9 @@
 /*This is a code comment*/
 
 
+
 .header-container {
-  background-color: blue;
+  background-color: green;
   text-align: center;
 }
 
@@ -14,14 +15,24 @@
   text-align: center;
 }
 
-.body-width {
-  width:88%;
-}
-
 .top {
   text-align: center;
 }
+.container {
+  margin-left: 100px;
+  margin-right: 100px
+}
 
+p {
+  text-align:justify;
+}
+
+ul {
+  text-align: justify;
+}
+h1 {
+  font-family: "courier new", courier, serif;
+}
 
 
 
