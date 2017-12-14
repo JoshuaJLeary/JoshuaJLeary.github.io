@@ -1,9 +1,9 @@
 /*This is a code comment*/
 
-
-
+body {
+  background-image: url("http://www.kinyu-z.net/data/wallpapers/229/1507662.jpg");
+}
 .header-container {
-  background-color: green;
   text-align: center;
 }
 
@@ -13,6 +13,15 @@
 
 .Education {
   text-align: center;
+  font-family: cursive;
+}
+.HU {
+  font-family: cursive;
+}
+.dashed-border {
+  margin-top: 50px;
+  border-style: dashed;
+  padding: 10px;
 }
 
 .top {
@@ -20,7 +29,16 @@
 }
 .container {
   margin-left: 100px;
-  margin-right: 100px
+  margin-right: 100px;
+}
+a:link {
+  color: black;
+}
+a:visited{
+  color: black;
+}
+a:hover {
+  color: red;
 }
 
 p {
@@ -32,6 +50,17 @@ ul {
 }
 h1 {
   font-family: "courier new", courier, serif;
+}
+.Objective {
+  border-style: solid;
+  padding: 10px;
+}
+
+.HU {
+  margin-top: 5px;
+}
+.Psy {
+  margin-top: 5px;
 }
 
 
